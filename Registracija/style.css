@@ -1,0 +1,46 @@
+body{background-color: rgb(11, 120, 106);
+color: white;
+text-align: center;}
+
+input, textarea{margin-bottom: 5px;}
+
+#re {background: violet;}
+
+#id {background-color: rgb(214, 223, 223);}
+
+#age 
+{width: 36px} 
+
+#small {font-size: smaller;}
+
+button {background-color: green;
+border-top: grey solid;
+border-left: grey solid;
+color: white;
+transition: 0.3s;
+  cursor: pointer;}
+
+input:in-range {background-color: azure;}
+
+input:out-of-range {background-color: brown;}
+
+button:hover {background-color: darkgreen;}
+
+
+  
+  #agree:checked  + #label-agree{
+    color: blue;
+  }
+  
+  input:invalid {
+    border: 2px solid red;
+  }
+  
+  input:valid {
+    border: 2px solid green;
+  }
+
+
+  #age, #password, #tell, #email {
+    border-left: rgb(216, 125, 195) solid;
+}

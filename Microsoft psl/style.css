@@ -1,0 +1,41 @@
+body {width: 600px;}
+
+#logo {display: block; margin-left: auto; margin-right: auto;
+text-align: center;}
+nav{
+    background-color: darkgreen;
+    width:600px ;
+    height: 40px;
+text-align: center;
+}
+li {display: inline-block;
+    color: azure;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ul {margin: 0 ;}
+
+main {
+width: 600px;
+height: auto;}
+
+section {background: lightgrey;}
+
+#img [src] {padding: 20px;
+    width: 560px;
+height: 440px;
+}
+
+h1 {
+    background-color: darkgreen;
+    color: azure;
+    margin: 20px;
+    padding: 10px;
+}
+p {padding: 20px;
+margin:0}
+
+#last {background-color: rgb(193, 250, 193);
+padding-top: 10px;}

@@ -1,0 +1,75 @@
+body{background-color: rgb(234, 230, 230);
+}
+
+header{
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    text-align: center;
+    border: 1px lightgray solid;
+    margin: 20px;
+    float: center;
+    border-radius: 1%;
+}
+#logo{width: 40%;
+height: 30%;
+padding-top: 10px;
+margin-top: 10px}
+
+nav li {display: inline-block;
+font-size: 16px;
+margin-right: 15px;
+float: center;
+}
+
+main{height: 800px;
+width: 600px;
+background-color: white;
+text-align: center;
+border: 1px lightgray solid;
+margin: 20px;
+float: center;
+border-radius: 1%;}
+
+section{
+    height: 950px;
+width: 600px;
+background-color: white;
+text-align: center;
+border: 1px lightgray solid;
+margin: 20px;
+float: center;
+border-radius: 1%;
+}
+
+#foto{height: 50%;
+width: 90%;
+object-fit: cover }
+
+h2 {padding-top: 20px;}
+
+p {text-align: left;
+margin: 30px}
+
+h3{margin:20px}
+
+.kaina {text-align: center;
+margin:0}
+
+.produktai{width: 200px;
+height: 200px;}
+
+h4{margin:0}
+
+footer {
+    height: 600px;
+width: 600px;
+background-color: white;
+border: 1px lightgray solid;
+margin: 20px;
+border-radius: 1%;
+padding: 20px;
+}
+
+.map{width: 500px;
+height: 450px;}

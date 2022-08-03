@@ -1,0 +1,27 @@
+body {background-color: rgb(31, 159, 121);}
+
+header{text-align: center;}
+
+h1{color: yellow;}
+h1::first-letter{color: crimson;
+font-size: 200%;}
+
+img{width: 150px;
+height: 150px;}
+
+a{text-decoration: none;
+color: yellow;}
+
+nav{padding: 10px;}
+
+table{text-align: center;
+    padding: 10px;}
+    td{
+        border: 1px black solid;
+    }
+    th{padding: 1rem;
+    border: 1px black solid;}
+
+   td table:last-child :nth-last-of-type(2){background-color: beige;}
+   td table:last-child :nth-last-of-type(3){background-color: rgb(236, 32, 5);}
+   
